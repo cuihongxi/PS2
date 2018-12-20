@@ -1,0 +1,1 @@
+..\obj\cuigui_color565.o: ..\MYFUN\CUIGUI\COLOR\CUIGUI_COLOR565.C
